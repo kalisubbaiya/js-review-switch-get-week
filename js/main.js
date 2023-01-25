@@ -1,5 +1,5 @@
-let dayName;
 function weekDay(day){
+    let dayName;
     switch (day) {
     case 0:
         dayName = 'Sunday';
